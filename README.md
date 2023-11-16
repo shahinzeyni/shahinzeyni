@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahin Zeyni
-- 👀 I’m interested in FrontEnd,.Py,.js
-- 🌱 I’m currently learning :)
+- 👀 I’m interested in .Py,.js
+- 🌱 Teaching programming language :)
 - 📫 How to reach me on instagram & Telegram @shahinzeyni
 - 💞️ ✨❤🎶✔🦾🎈⭐🌟🌛🌪🌨...
