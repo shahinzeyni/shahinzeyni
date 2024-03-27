@@ -11,5 +11,5 @@ const ShahinZeyni = {
         },                    
    },    
    currentFocus: "React.js Web Development",     
-   funFact: "Bug's and Errors are my best friends" ,
+   funFact: "Bug's and Errors are my best friends" ,,
 };
