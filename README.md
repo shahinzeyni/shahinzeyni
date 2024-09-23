@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**shahinzeyni/shahinzeyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
++const Shahin_Zeyni_Shahsavar = {     
++    pronouns: "He" | "Him",     
++    aboutMe: "I'm React.js Developer"
++    language: ["javaScript"] // React.js, Next.js 
++    myStack: {             
++        frontend: {             
++          frameworks_&&_library: ["React.js", "Next.js", "Redux.js"],
++          callMe: ["My friends call me a bug fixer 😂"]
++        }           
++   }, 
++   currentFocus: "React.js  Web Development",     
++   funFact: "Bug's and Errors are my best friends" 
++};
+```
