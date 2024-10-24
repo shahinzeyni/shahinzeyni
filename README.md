@@ -3,7 +3,7 @@
 const Shahin_Zeyni_Shahsavar = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm React.js Developer"
-    language: ["javaScript"] // React.js, Next.js 
+    language: ["javaScript","TypeScript","Python"] // React.js, Next.js 
     myStack: {             
         frontend: {             
           frameworks_&&_library: ["React.js", "Next.js", "Redux.js"]
