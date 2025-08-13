@@ -6,9 +6,8 @@ const ShahinZeyni = {
     languages: ["JavaScript", "TypeScript", "Python"],  
     expertise: {  
         frontend: {  
-            frameworksAndLibraries: ["React.js", "Next.js", "Redux"],  
-            styling: ["SCSS", "Mantine", "TailwindCSS"],  
-            tools: ["Vite", "Webpack", "ESLint"]  
+            frameworks: ["React.js", "Next.js"],  
+            other: ["Redux", "Zustand", "Sass", "Mantine", "Ant Design", "Material/UI", "Tailwind", "Mantine", "Shadcn"],
         }  
     },  
     currentFocus: "Enhancing React.js applications with scalable architecture and modern UI design.",  
