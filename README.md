@@ -1,5 +1,5 @@
 
-```diff
+```javascript
 const ShahinZeyni = {  
     pronouns: "He" | "Him",  
     bio: "A dedicated Frontend Developer passionate about crafting seamless and user-friendly web experiences.",  
